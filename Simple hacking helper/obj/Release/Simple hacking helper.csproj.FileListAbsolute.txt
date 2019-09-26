@@ -1,0 +1,10 @@
+C:\Users\ahmed\source\repos\Simple hacking helper\Simple hacking helper\bin\Release\Simple hacking helper.exe.config
+C:\Users\ahmed\source\repos\Simple hacking helper\Simple hacking helper\bin\Release\Simple hacking helper.exe
+C:\Users\ahmed\source\repos\Simple hacking helper\Simple hacking helper\bin\Release\Simple hacking helper.pdb
+C:\Users\ahmed\source\repos\Simple hacking helper\Simple hacking helper\obj\Release\Simple hacking helper.csprojAssemblyReference.cache
+C:\Users\ahmed\source\repos\Simple hacking helper\Simple hacking helper\obj\Release\Simple_hacking_helper.Form1.resources
+C:\Users\ahmed\source\repos\Simple hacking helper\Simple hacking helper\obj\Release\Simple_hacking_helper.Properties.Resources.resources
+C:\Users\ahmed\source\repos\Simple hacking helper\Simple hacking helper\obj\Release\Simple hacking helper.csproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\Simple hacking helper\Simple hacking helper\obj\Release\Simple hacking helper.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\Simple hacking helper\Simple hacking helper\obj\Release\Simple hacking helper.exe
+C:\Users\ahmed\source\repos\Simple hacking helper\Simple hacking helper\obj\Release\Simple hacking helper.pdb
